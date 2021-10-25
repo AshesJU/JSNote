@@ -1,2 +1,3 @@
 table只能设置margin不能设置padding
 th只能设置padding不能设置margin
+H5自定义属性以 data- 开头
